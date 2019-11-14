@@ -53,3 +53,21 @@ header{
   display: block;
   margin: 1em auto 0 auto;
 }
+
+/* ---------------------------------------- */
+
+.choiceHolder{
+  display: flex;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+
+.numberPlace{
+  font-size: 40px;
+  margin: .5em 0;
+}
+
+.nextBtn{
+  display: block;
+  margin: 0 auto;
+}
