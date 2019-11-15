@@ -71,3 +71,28 @@ header{
   display: block;
   margin: 0 auto;
 }
+
+/* ------------------------------------------- */
+
+.answerBox{
+  display: flex;
+  justify-content: space-between;
+  margin: .5em 0;
+  padding: 20px;
+}
+
+.answerBtn{
+  background-color: #ccc;
+  color: black;
+  padding: 10px 15px;
+  border: 1px black solid;
+}
+
+.wrongAnswer{
+  background-color: darkred;
+  color: white;
+}
+
+.error{
+  color: darkred
+}
